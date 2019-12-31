@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Tingting Zhao</title>
+    <link>/publication_types/2/</link>
+      <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Tingting Zhao 2019</copyright><lastBuildDate>Tue, 28 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>2</title>
+      <link>/publication_types/2/</link>
+    </image>
+    
+    <item>
+      <title>Analysis of high-dimensional Continuous Time Markov Chains using the Local Bouncy Particle Sampler</title>
+      <link>/publication/18-highdimensionalctmc/</link>
+      <pubDate>Tue, 28 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/18-highdimensionalctmc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Analysis of Continuous Time Markov Chains with Application to Phylogenetic Modelling</title>
+      <link>/publication/16-ba-ctmc/</link>
+      <pubDate>Fri, 09 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/16-ba-ctmc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

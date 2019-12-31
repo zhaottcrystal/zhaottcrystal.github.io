@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Tingting Zhao</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Tingting Zhao 2019</copyright><lastBuildDate>Wed, 28 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title>Aria Masoomi</title>
+      <link>/authors/aria-masoomi/</link>
+      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/aria-masoomi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jennifer Dy</title>
+      <link>/authors/jennifer-dy/</link>
+      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/jennifer-dy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tingting Zhao</title>
+      <link>/authors/tingting-zhao/</link>
+      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/tingting-zhao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zifeng Wang</title>
+      <link>/authors/zifeng-wang/</link>
+      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/zifeng-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alexandre Bouchard-Côté</title>
+      <link>/authors/alexandre-bouchard-cote/</link>
+      <pubDate>Tue, 28 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/alexandre-bouchard-cote/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> Joerg Gsponer</title>
+      <link>/authors/joerg-gsponer/</link>
+      <pubDate>Fri, 09 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>/authors/joerg-gsponer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alexander Cumberworth</title>
+      <link>/authors/alexander-cumberworth/</link>
+      <pubDate>Fri, 09 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>/authors/alexander-cumberworth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nando de Freitas</title>
+      <link>/authors/nando-de-freitas/</link>
+      <pubDate>Fri, 09 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>/authors/nando-de-freitas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ziyu Wang</title>
+      <link>/authors/ziyu-wang/</link>
+      <pubDate>Fri, 09 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>/authors/ziyu-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;I am now&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
