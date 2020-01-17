@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="Postdoctoral Research Associate">
+  <meta name="description" content="Feature selection is central to contemporary high-dimensional data analysis. Grouping structure among features arises naturally in various scientific problems. Many methods have been proposed to incorporate the grouping structure information into feature selection. However, these methods are normally restricted to a linear regression setting. To relax the linear constraint, we combine Deep Neural Networks (DNNs) with the recent Knockoffs technique, which has been successful in an individual feature selection context. We propose Deep group-feature selection using Knockoffs (Deep-gKnock) as a methodology for model interpretation and dimension reduction. Deep-gKnock performs model-free group-feature selection by controlling group-wise False Discovery Rate (gFDR). Our method improves the interpretability and reproducibility of DNNs. Experimental results on both high-dimensional synthetic and real data demonstrate that our method achieves superior power and accurate gFDR control compared with state-of-the-art methods..">
 
   
-  <link rel="alternate" hreflang="en-us" href="/authors/tingting-zhao/">
+  <link rel="alternate" hreflang="en-us" href="/publication/2020-gknock/">
 
   
 
@@ -131,14 +131,12 @@
 
 
   
-  <link rel="alternate" href="/authors/tingting-zhao/index.xml" type="application/rss+xml" title="Tingting Zhao">
-  
 
   <link rel="manifest" href="/index.webmanifest">
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="/authors/tingting-zhao/">
+  <link rel="canonical" href="/publication/2020-gknock/">
 
   
   
@@ -151,18 +149,63 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Tingting Zhao">
-  <meta property="og:url" content="/authors/tingting-zhao/">
-  <meta property="og:title" content="Tingting Zhao | Tingting Zhao">
-  <meta property="og:description" content="Postdoctoral Research Associate"><meta property="og:image" content="/img/icon-192.png">
+  <meta property="og:url" content="/publication/2020-gknock/">
+  <meta property="og:title" content="Deep-gKnock: nonlinear group-feature selection with deep neural network | Tingting Zhao">
+  <meta property="og:description" content="Feature selection is central to contemporary high-dimensional data analysis. Grouping structure among features arises naturally in various scientific problems. Many methods have been proposed to incorporate the grouping structure information into feature selection. However, these methods are normally restricted to a linear regression setting. To relax the linear constraint, we combine Deep Neural Networks (DNNs) with the recent Knockoffs technique, which has been successful in an individual feature selection context. We propose Deep group-feature selection using Knockoffs (Deep-gKnock) as a methodology for model interpretation and dimension reduction. Deep-gKnock performs model-free group-feature selection by controlling group-wise False Discovery Rate (gFDR). Our method improves the interpretability and reproducibility of DNNs. Experimental results on both high-dimensional synthetic and real data demonstrate that our method achieves superior power and accurate gFDR control compared with state-of-the-art methods.."><meta property="og:image" content="/img/icon-192.png">
   <meta property="twitter:image" content="/img/icon-192.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2020-01-01T00:00:00&#43;00:00">
+    
+      <meta property="article:published_time" content="2020-01-01T00:00:00&#43;00:00">
+    
+    <meta property="article:modified_time" content="2020-01-01T00:00:00&#43;00:00">
   
 
   
 
 
+    
 
+
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "/publication/2020-gknock/"
+  },
+  "headline": "Deep-gKnock: nonlinear group-feature selection with deep neural network",
+  
+  "datePublished": "2020-01-01T00:00:00Z",
+  "dateModified": "2020-01-01T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Guangyu Zhu"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Tingting Zhao",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "/img/icon-512.png"
+    }
+  },
+  "description": "Feature selection is central to contemporary high-dimensional data analysis. Grouping structure among features arises naturally in various scientific problems. Many methods have been proposed to incorporate the grouping structure information into feature selection. However, these methods are normally restricted to a linear regression setting. To relax the linear constraint, we combine Deep Neural Networks (DNNs) with the recent Knockoffs technique, which has been successful in an individual feature selection context. We propose Deep group-feature selection using Knockoffs (Deep-gKnock) as a methodology for model interpretation and dimension reduction. Deep-gKnock performs model-free group-feature selection by controlling group-wise False Discovery Rate (gFDR). Our method improves the interpretability and reproducibility of DNNs. Experimental results on both high-dimensional synthetic and real data demonstrate that our method achieves superior power and accurate gFDR control compared with state-of-the-art methods.."
+}
+</script>
+
+  
 
   
 
@@ -170,10 +213,13 @@
   
 
 
+  
 
 
 
-  <title>Tingting Zhao | Tingting Zhao</title>
+
+
+  <title>Deep-gKnock: nonlinear group-feature selection with deep neural network | Tingting Zhao</title>
 
 </head>
 
@@ -350,46 +396,328 @@
 </nav>
 
 
+  <div class="pub">
+
   
 
-<div class="universal-wrapper pt-3">
-  <h1>Tingting Zhao</h1>
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>Deep-gKnock: nonlinear group-feature selection with deep neural network</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  
+  <span><a href="/authors/guangyu-zhu/">Guangyu Zhu</a></span>, <span><a href="/authors/tingting-zhao/">Tingting Zhao</a></span>
+
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    January 2020
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="/pdf/2020-gKnock.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </div>
 
 
-<section id="profile-page" class="pt-5">
-  <div class="container">
+  
+</div>
+
+
+
+  <div class="article-container">
+
     
+    <h3>Abstract</h3>
+    <p class="pub-abstract">Feature selection is central to contemporary high-dimensional data analysis. Grouping structure among features arises naturally in various scientific problems. Many methods have been proposed to incorporate the grouping structure information into feature selection. However, these methods are normally restricted to a linear regression setting. To relax the linear constraint, we combine Deep Neural Networks (DNNs) with the recent Knockoffs technique, which has been successful in an individual feature selection context. We propose Deep group-feature selection using Knockoffs (Deep-gKnock) as a methodology for model interpretation and dimension reduction. Deep-gKnock performs model-free group-feature selection by controlling group-wise False Discovery Rate (gFDR). Our method improves the interpretability and reproducibility of DNNs. Experimental results on both high-dimensional synthetic and real data demonstrate that our method achieves superior power and accurate gFDR control compared with state-of-the-art methods..</p>
     
 
     
-    
-    
-    <div class="article-widget content-widget-hr">
-      <h3>Latest</h3>
-      <ul>
-        
-        <li>
-          <a href="/publication/2020-gknock/">Deep-gKnock: nonlinear group-feature selection with deep neural network</a>
-        </li>
-        
-        <li>
-          <a href="/publication/19-streaminganvae/">Streaming Adaptive Nonparametric Variational Autoencoder</a>
-        </li>
-        
-        <li>
-          <a href="/publication/18-highdimensionalctmc/">Analysis of high-dimensional Continuous Time Markov Chains using the Local Bouncy Particle Sampler</a>
-        </li>
-        
-        <li>
-          <a href="/publication/16-ba-ctmc/">Bayesian Analysis of Continuous Time Markov Chains with Application to Phylogenetic Modelling</a>
-        </li>
-        
-      </ul>
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+            
+            <a href="/publication/#2">
+              Journal article
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
     </div>
+    <div class="d-md-none space-below"></div>
     
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">Under Review</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+
+
+
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=/publication/2020-gknock/&amp;text=Deep-gKnock:%20nonlinear%20group-feature%20selection%20with%20deep%20neural%20network" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=/publication/2020-gknock/&amp;t=Deep-gKnock:%20nonlinear%20group-feature%20selection%20with%20deep%20neural%20network" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Deep-gKnock:%20nonlinear%20group-feature%20selection%20with%20deep%20neural%20network&amp;body=/publication/2020-gknock/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=/publication/2020-gknock/&amp;title=Deep-gKnock:%20nonlinear%20group-feature%20selection%20with%20deep%20neural%20network" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://web.whatsapp.com/send?text=Deep-gKnock:%20nonlinear%20group-feature%20selection%20with%20deep%20neural%20network%20/publication/2020-gknock/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=/publication/2020-gknock/&amp;title=Deep-gKnock:%20nonlinear%20group-feature%20selection%20with%20deep%20neural%20network" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+  
+
+
+
+
+
+
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/authors/guangyu-zhu/"></a></h5>
+      
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+</ul>
+
+    </div>
   </div>
-</section>
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+  </div>
+</div>
 
       
 

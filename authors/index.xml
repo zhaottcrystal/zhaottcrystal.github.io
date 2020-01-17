@@ -5,12 +5,28 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Tingting Zhao 2019</copyright><lastBuildDate>Wed, 28 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Tingting Zhao 2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
+    
+    <item>
+      <title>Guangyu Zhu</title>
+      <link>/authors/guangyu-zhu/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/guangyu-zhu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tingting Zhao</title>
+      <link>/authors/tingting-zhao/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/tingting-zhao/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Aria Masoomi</title>
@@ -25,14 +41,6 @@
       <link>/authors/jennifer-dy/</link>
       <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
       <guid>/authors/jennifer-dy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tingting Zhao</title>
-      <link>/authors/tingting-zhao/</link>
-      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/tingting-zhao/</guid>
       <description></description>
     </item>
     
@@ -89,7 +97,7 @@
       <link>/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;I am now&lt;/p&gt;
+      <description>&lt;p&gt;I am now a postdoctoral research associate in the Department of Electrical and Computer Engineering at Northeastern University under the supervision of Professor Jennifer Dy. I am also a Research Fellow in Brigham and Women&#39;s Hospital of Harvard Medical School. I had my Ph.D. training under the guidance of Professor Alexandre Bouchard-Côté in the Department of Statistics at University of British Columbia in December, 2018.&lt;/p&gt;
 </description>
     </item>
     

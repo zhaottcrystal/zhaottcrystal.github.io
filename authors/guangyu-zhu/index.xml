@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guangyu Zhu | Tingting Zhao</title>
+    <link>/authors/guangyu-zhu/</link>
+      <atom:link href="/authors/guangyu-zhu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Guangyu Zhu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Tingting Zhao 2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Guangyu Zhu</title>
+      <link>/authors/guangyu-zhu/</link>
+    </image>
+    
+    <item>
+      <title>Deep-gKnock: nonlinear group-feature selection with deep neural network</title>
+      <link>/publication/2020-gknock/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-gknock/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
