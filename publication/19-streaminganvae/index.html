@@ -28,7 +28,7 @@
   
     
   
-  <meta name="description" content="We develop a data driven approach to perform clustering and end-to-end feature learning simultaneously for streaming data that can adaptively detect novel clusters in emerging data. Our approach, Adaptive Non-parametric Variational Autoencoder (AdapVAE), learns the cluster membership through a Bayesian Nonparametric (BNP) modeling framework with Deep Neural Networks (DNNs) for feature learning. We develop a joint online variational inference algorithm to learn feature representations and clustering assignments simultaneously via iteratively optimizing the Evidence Lower Bound (ELBO). We resolve the catastrophic forgetting (Kirkpatrick et al., 2017) challenges with streaming data by adopting generative samples from the trained AdapVAE using previous data, which avoids the need of storing and reusing past data. We demonstrate the advantages of our model including adaptive novel cluster detection without discarding useful information learned from past data, high quality sample generation and comparable clustering performance as end-to-end batch mode clustering methods on both image and text corpora benchmark datasets.">
+  <meta name="description" content="Lifelong Learning (LL) refers to the ability to continually learn and solve new problems with incremental available information over time while retaining previous knowledge. Much attention has been given lately to Supervised Lifelong Learning (SLL) with a stream of labelled data. In contrast, we focus on resolving challenges in Unsupervised Lifelong Learning (ULL) with streaming unlabelled data when the data distribution and the unknown class labels evolve over time. Bayesian framework is natural to incorporate past knowledge and sequentially update the belief with new data. We develop a fully Bayesian inference framework for ULL with a novel end-to-end Deep Bayesian Unsupervised Lifelong Learning (DBULL) algorithm, which can progressively discover new clusters without forgetting the past with unlabelled data while learning latent representations. To efficiently maintain past knowledge, we develop a novel knowledge preservation mechanism via sufficient statistics of the latent representation for raw data. To detect the potential new clusters on the fly, we develop an automatic cluster discovery and redundancy removal strategy in our inference inspired by Nonparametric Bayesian statistics techniques. We demonstrate the effectiveness of our approach using image and text corpora benchmark datasets in both LL and batch settings.">
 
   
   <link rel="alternate" hreflang="en-us" href="/publication/19-streaminganvae/">
@@ -150,8 +150,8 @@
   
   <meta property="og:site_name" content="Tingting Zhao">
   <meta property="og:url" content="/publication/19-streaminganvae/">
-  <meta property="og:title" content="Streaming Adaptive Nonparametric Variational Autoencoder | Tingting Zhao">
-  <meta property="og:description" content="We develop a data driven approach to perform clustering and end-to-end feature learning simultaneously for streaming data that can adaptively detect novel clusters in emerging data. Our approach, Adaptive Non-parametric Variational Autoencoder (AdapVAE), learns the cluster membership through a Bayesian Nonparametric (BNP) modeling framework with Deep Neural Networks (DNNs) for feature learning. We develop a joint online variational inference algorithm to learn feature representations and clustering assignments simultaneously via iteratively optimizing the Evidence Lower Bound (ELBO). We resolve the catastrophic forgetting (Kirkpatrick et al., 2017) challenges with streaming data by adopting generative samples from the trained AdapVAE using previous data, which avoids the need of storing and reusing past data. We demonstrate the advantages of our model including adaptive novel cluster detection without discarding useful information learned from past data, high quality sample generation and comparable clustering performance as end-to-end batch mode clustering methods on both image and text corpora benchmark datasets."><meta property="og:image" content="/img/icon-192.png">
+  <meta property="og:title" content="Deep Bayesian Unsupervised Lifelong Learning | Tingting Zhao">
+  <meta property="og:description" content="Lifelong Learning (LL) refers to the ability to continually learn and solve new problems with incremental available information over time while retaining previous knowledge. Much attention has been given lately to Supervised Lifelong Learning (SLL) with a stream of labelled data. In contrast, we focus on resolving challenges in Unsupervised Lifelong Learning (ULL) with streaming unlabelled data when the data distribution and the unknown class labels evolve over time. Bayesian framework is natural to incorporate past knowledge and sequentially update the belief with new data. We develop a fully Bayesian inference framework for ULL with a novel end-to-end Deep Bayesian Unsupervised Lifelong Learning (DBULL) algorithm, which can progressively discover new clusters without forgetting the past with unlabelled data while learning latent representations. To efficiently maintain past knowledge, we develop a novel knowledge preservation mechanism via sufficient statistics of the latent representation for raw data. To detect the potential new clusters on the fly, we develop an automatic cluster discovery and redundancy removal strategy in our inference inspired by Nonparametric Bayesian statistics techniques. We demonstrate the effectiveness of our approach using image and text corpora benchmark datasets in both LL and batch settings."><meta property="og:image" content="/img/icon-192.png">
   <meta property="twitter:image" content="/img/icon-192.png"><meta property="og:locale" content="en-us">
   
     
@@ -183,7 +183,7 @@
     "@type": "WebPage",
     "@id": "/publication/19-streaminganvae/"
   },
-  "headline": "Streaming Adaptive Nonparametric Variational Autoencoder",
+  "headline": "Deep Bayesian Unsupervised Lifelong Learning",
   
   "datePublished": "2019-08-28T00:00:00Z",
   "dateModified": "2019-08-28T00:00:00Z",
@@ -201,7 +201,7 @@
       "url": "/img/icon-512.png"
     }
   },
-  "description": "We develop a data driven approach to perform clustering and end-to-end feature learning simultaneously for streaming data that can adaptively detect novel clusters in emerging data. Our approach, Adaptive Non-parametric Variational Autoencoder (AdapVAE), learns the cluster membership through a Bayesian Nonparametric (BNP) modeling framework with Deep Neural Networks (DNNs) for feature learning. We develop a joint online variational inference algorithm to learn feature representations and clustering assignments simultaneously via iteratively optimizing the Evidence Lower Bound (ELBO). We resolve the catastrophic forgetting (Kirkpatrick et al., 2017) challenges with streaming data by adopting generative samples from the trained AdapVAE using previous data, which avoids the need of storing and reusing past data. We demonstrate the advantages of our model including adaptive novel cluster detection without discarding useful information learned from past data, high quality sample generation and comparable clustering performance as end-to-end batch mode clustering methods on both image and text corpora benchmark datasets."
+  "description": "Lifelong Learning (LL) refers to the ability to continually learn and solve new problems with incremental available information over time while retaining previous knowledge. Much attention has been given lately to Supervised Lifelong Learning (SLL) with a stream of labelled data. In contrast, we focus on resolving challenges in Unsupervised Lifelong Learning (ULL) with streaming unlabelled data when the data distribution and the unknown class labels evolve over time. Bayesian framework is natural to incorporate past knowledge and sequentially update the belief with new data. We develop a fully Bayesian inference framework for ULL with a novel end-to-end Deep Bayesian Unsupervised Lifelong Learning (DBULL) algorithm, which can progressively discover new clusters without forgetting the past with unlabelled data while learning latent representations. To efficiently maintain past knowledge, we develop a novel knowledge preservation mechanism via sufficient statistics of the latent representation for raw data. To detect the potential new clusters on the fly, we develop an automatic cluster discovery and redundancy removal strategy in our inference inspired by Nonparametric Bayesian statistics techniques. We demonstrate the effectiveness of our approach using image and text corpora benchmark datasets in both LL and batch settings."
 }
 </script>
 
@@ -219,7 +219,7 @@
 
 
 
-  <title>Streaming Adaptive Nonparametric Variational Autoencoder | Tingting Zhao</title>
+  <title>Deep Bayesian Unsupervised Lifelong Learning | Tingting Zhao</title>
 
 </head>
 
@@ -417,7 +417,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>Streaming Adaptive Nonparametric Variational Autoencoder</h1>
+  <h1>Deep Bayesian Unsupervised Lifelong Learning</h1>
 
   
 
@@ -529,7 +529,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">We develop a data driven approach to perform clustering and end-to-end feature learning simultaneously for streaming data that can adaptively detect novel clusters in emerging data. Our approach, Adaptive Non-parametric Variational Autoencoder (AdapVAE), learns the cluster membership through a Bayesian Nonparametric (BNP) modeling framework with Deep Neural Networks (DNNs) for feature learning. We develop a joint online variational inference algorithm to learn feature representations and clustering assignments simultaneously via iteratively optimizing the Evidence Lower Bound (ELBO). We resolve the catastrophic forgetting (Kirkpatrick et al., 2017) challenges with streaming data by adopting generative samples from the trained AdapVAE using previous data, which avoids the need of storing and reusing past data. We demonstrate the advantages of our model including adaptive novel cluster detection without discarding useful information learned from past data, high quality sample generation and comparable clustering performance as end-to-end batch mode clustering methods on both image and text corpora benchmark datasets.</p>
+    <p class="pub-abstract">Lifelong Learning (LL) refers to the ability to continually learn and solve new problems with incremental available information over time while retaining previous knowledge. Much attention has been given lately to Supervised Lifelong Learning (SLL) with a stream of labelled data. In contrast, we focus on resolving challenges in Unsupervised Lifelong Learning (ULL) with streaming unlabelled data when the data distribution and the unknown class labels evolve over time. Bayesian framework is natural to incorporate past knowledge and sequentially update the belief with new data. We develop a fully Bayesian inference framework for ULL with a novel end-to-end Deep Bayesian Unsupervised Lifelong Learning (DBULL) algorithm, which can progressively discover new clusters without forgetting the past with unlabelled data while learning latent representations. To efficiently maintain past knowledge, we develop a novel knowledge preservation mechanism via sufficient statistics of the latent representation for raw data. To detect the potential new clusters on the fly, we develop an automatic cluster discovery and redundancy removal strategy in our inference inspired by Nonparametric Bayesian statistics techniques. We demonstrate the effectiveness of our approach using image and text corpora benchmark datasets in both LL and batch settings.</p>
     
 
     
@@ -578,7 +578,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=/publication/19-streaminganvae/&amp;text=Streaming%20Adaptive%20Nonparametric%20Variational%20Autoencoder" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=/publication/19-streaminganvae/&amp;text=Deep%20Bayesian%20Unsupervised%20Lifelong%20Learning" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -591,7 +591,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=/publication/19-streaminganvae/&amp;t=Streaming%20Adaptive%20Nonparametric%20Variational%20Autoencoder" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=/publication/19-streaminganvae/&amp;t=Deep%20Bayesian%20Unsupervised%20Lifelong%20Learning" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -604,7 +604,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Streaming%20Adaptive%20Nonparametric%20Variational%20Autoencoder&amp;body=/publication/19-streaminganvae/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Deep%20Bayesian%20Unsupervised%20Lifelong%20Learning&amp;body=/publication/19-streaminganvae/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -617,7 +617,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=/publication/19-streaminganvae/&amp;title=Streaming%20Adaptive%20Nonparametric%20Variational%20Autoencoder" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=/publication/19-streaminganvae/&amp;title=Deep%20Bayesian%20Unsupervised%20Lifelong%20Learning" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -630,7 +630,7 @@
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=Streaming%20Adaptive%20Nonparametric%20Variational%20Autoencoder%20/publication/19-streaminganvae/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=Deep%20Bayesian%20Unsupervised%20Lifelong%20Learning%20/publication/19-streaminganvae/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -643,7 +643,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=/publication/19-streaminganvae/&amp;title=Streaming%20Adaptive%20Nonparametric%20Variational%20Autoencoder" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=/publication/19-streaminganvae/&amp;title=Deep%20Bayesian%20Unsupervised%20Lifelong%20Learning" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
