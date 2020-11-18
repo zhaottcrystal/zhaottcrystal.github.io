@@ -5,12 +5,20 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Tingting Zhao 2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Tingting Zhao 2020</copyright><lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>Instance-wise Feature Grouping</title>
+      <link>/publication/instancefeatureselection/</link>
+      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/instancefeatureselection/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Deep-gKnock: nonlinear group-feature selection with deep neural network</title>
@@ -41,6 +49,14 @@
       <link>/publication/16-ba-ctmc/</link>
       <pubDate>Fri, 09 Sep 2016 00:00:00 +0000</pubDate>
       <guid>/publication/16-ba-ctmc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Study on RMB Number Recognition Based on Genetic Algorithm Artificial Neural Network</title>
+      <link>/publication/rmb/</link>
+      <pubDate>Thu, 09 Sep 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/rmb/</guid>
       <description></description>
     </item>
     

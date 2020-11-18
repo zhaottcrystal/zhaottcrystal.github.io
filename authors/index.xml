@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Tingting Zhao 2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Tingting Zhao 2020</copyright><lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,42 +13,58 @@
     </image>
     
     <item>
-      <title>Guangyu Zhu</title>
-      <link>/authors/guangyu-zhu/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/guangyu-zhu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tingting Zhao</title>
-      <link>/authors/tingting-zhao/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/tingting-zhao/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Aria Masoomi</title>
       <link>/authors/aria-masoomi/</link>
-      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
       <guid>/authors/aria-masoomi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chieh Wu</title>
+      <link>/authors/chieh-wu/</link>
+      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/chieh-wu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jennifer Dy</title>
       <link>/authors/jennifer-dy/</link>
-      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
       <guid>/authors/jennifer-dy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peter Castaldi</title>
+      <link>/authors/peter-castaldi/</link>
+      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/peter-castaldi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tingting Zhao</title>
+      <link>/authors/tingting-zhao/</link>
+      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/tingting-zhao/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Zifeng Wang</title>
       <link>/authors/zifeng-wang/</link>
-      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
       <guid>/authors/zifeng-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guangyu Zhu</title>
+      <link>/authors/guangyu-zhu/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/guangyu-zhu/</guid>
       <description></description>
     </item>
     
@@ -89,6 +105,30 @@
       <link>/authors/ziyu-wang/</link>
       <pubDate>Fri, 09 Sep 2016 00:00:00 +0000</pubDate>
       <guid>/authors/ziyu-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jiyin Zhao</title>
+      <link>/authors/jiyin-zhao/</link>
+      <pubDate>Thu, 09 Sep 2010 00:00:00 +0000</pubDate>
+      <guid>/authors/jiyin-zhao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lulu Zhang</title>
+      <link>/authors/lulu-zhang/</link>
+      <pubDate>Thu, 09 Sep 2010 00:00:00 +0000</pubDate>
+      <guid>/authors/lulu-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ruirui Zheng</title>
+      <link>/authors/ruirui-zheng/</link>
+      <pubDate>Thu, 09 Sep 2010 00:00:00 +0000</pubDate>
+      <guid>/authors/ruirui-zheng/</guid>
       <description></description>
     </item>
     

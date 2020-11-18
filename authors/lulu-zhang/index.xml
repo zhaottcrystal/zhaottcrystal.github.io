@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lulu Zhang | Tingting Zhao</title>
+    <link>/authors/lulu-zhang/</link>
+      <atom:link href="/authors/lulu-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lulu Zhang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Tingting Zhao 2020</copyright><lastBuildDate>Thu, 09 Sep 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Lulu Zhang</title>
+      <link>/authors/lulu-zhang/</link>
+    </image>
+    
+    <item>
+      <title>Study on RMB Number Recognition Based on Genetic Algorithm Artificial Neural Network</title>
+      <link>/publication/rmb/</link>
+      <pubDate>Thu, 09 Sep 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/rmb/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

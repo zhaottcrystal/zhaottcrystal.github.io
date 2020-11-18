@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Aria Masoomi | Tingting Zhao</title>
-    <link>/authors/aria-masoomi/</link>
-      <atom:link href="/authors/aria-masoomi/index.xml" rel="self" type="application/rss+xml" />
-    <description>Aria Masoomi</description>
+    <title>Chieh Wu | Tingting Zhao</title>
+    <link>/authors/chieh-wu/</link>
+      <atom:link href="/authors/chieh-wu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chieh Wu</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Tingting Zhao 2020</copyright><lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
-      <title>Aria Masoomi</title>
-      <link>/authors/aria-masoomi/</link>
+      <title>Chieh Wu</title>
+      <link>/authors/chieh-wu/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>/publication/instancefeatureselection/</link>
       <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
       <guid>/publication/instancefeatureselection/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Deep Bayesian Unsupervised Lifelong Learning</title>
-      <link>/publication/19-streaminganvae/</link>
-      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/19-streaminganvae/</guid>
       <description></description>
     </item>
     
